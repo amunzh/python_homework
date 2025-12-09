@@ -1,0 +1,12 @@
+function: hello_wrd
+positional parameters: none
+keyword parameters: none
+return: None
+function: param_func
+positional parameters: [[3, 4, 6, 12, 33]]
+keyword parameters: none
+return: True
+function: keyword_func
+positional parameters: [{'name': 'Amanda', 'age': 66}]
+keyword parameters: none
+return: <function logger_decorator at 0x102e7f060>
