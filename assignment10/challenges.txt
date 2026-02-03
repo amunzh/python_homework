@@ -1,0 +1,2 @@
+I had previously worked with html, so finding the required sections wasn’t a big issue. I encountered a problem when initially getting the information from the website. I got an error I haven’t seen before. It took me some time and the help of my friend to figure out that my Chrome was not installed in the right place. 
+I also had some trouble extracting the href for Task 6, but after I attended the group session, I saw how to get only the link by using get_attribute
